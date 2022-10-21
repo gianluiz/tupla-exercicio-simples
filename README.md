@@ -1,4 +1,4 @@
-# tupla exercicio simples
+# tupla - resolução de exercicio 
 Neste simples exercício, fiz questão de registrar o uso de 'tuplas'. 
 Utilizei também ferramentas básicas de manipulação de caracteres para responder as exigências do exercício.
 index()
