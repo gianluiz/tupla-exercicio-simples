@@ -1,4 +1,4 @@
-#ESTE programa lê TRÉS valores pelo teclado e guarde-os em uma tupla.
+#ESTE programa lê TRÉS valores pelo teclado e guarda-os em uma tupla.
 #No final mostrará quantas vezes apareceu o valor 9, em que posição foi digitado o primeiro valor 3 e quais foram os números pares.
 cont = 0
 while True:
